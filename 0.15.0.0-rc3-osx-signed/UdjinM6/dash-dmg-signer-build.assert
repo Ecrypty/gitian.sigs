@@ -3,7 +3,7 @@
 
 '
 - in_manifest: |-
-    3622d30a476bc6dbe26865561316211d496ee1335e2994c076de207f26ecd5ce  dash-dmg-signer-desc.yml
+    3622d30a476bc6dbe26865561316211d496ee1335e2994c076de207f26ecd5ce  florijncoin-dmg-signer-desc.yml
     db8ab60e91f0ceff5f253eabd0e9c9775b04e6a9fe6dd42a03230638c08b0bce  dashcore-osx-unsigned.tar.gz
     git:372f7b78a8153479d4716562a6a7e453d106f7ed signature
 - base_manifests: !!omap
@@ -240,6 +240,6 @@
 - cache_common_manifest: ''
 - cache_package_manifest: ''
 - release: 0.15.0.0-rc3-osx-signed
-- name: dash-dmg-signer
+- name: florijncoin-dmg-signer
 - type: build
 - optionals: 

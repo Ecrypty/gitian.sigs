@@ -233,6 +233,6 @@
 - cache_common_manifest: ''
 - cache_package_manifest: ''
 - release: 0.15.0.0-rc1-win-signed
-- name: dash-win-signer
+- name: florijncoin-win-signer
 - type: build
 - optionals: 

@@ -6,7 +6,7 @@
     d24dd886da4a8bae4658e4c333cb03871bf94a0bc40472be6483c48b9046bb95  dashcore-0.16.0-osx64.tar.gz
     f9abcf305d9da8ca91bbcfb91f91bb66c27defee24670f4a8b2201df840fc5e1  src/dashcore-0.16.0.tar.gz
 - in_manifest: |-
-    efa77fb384373ac6e6e085442a9b2a4232a86bec01ed72b7bf8af0e13ec3bbe6  dash-osx-0.16-desc.yml
+    efa77fb384373ac6e6e085442a9b2a4232a86bec01ed72b7bf8af0e13ec3bbe6  florijncoin-osx-0.16-desc.yml
     bec9d089ebf2e2dd59b1a811a38ec78ebd5da18cbbcd6ab39d1e59f64ac5033f  MacOSX10.11.sdk.tar.gz
     git:0c960a5efe30011ecaeee29e3da5ccc7a538e73e dash
 - base_manifests: !omap
@@ -775,6 +775,6 @@
     49560dd3fe00ee38b2ad05a2a7b85ae2892657ffee1a87bdeabc5806512166df  depends/x86_64-apple-darwin11/zlib/zlib-1.2.11-a0348b0bead.tar.gz
     4091525bdf7be8edd9a6a8efd682a1e007a5aef2eeb27447bccc51c49a51a672  depends/x86_64-apple-darwin11/zlib/zlib-1.2.11-a0348b0bead.tar.gz.hash
 - release: 0.16.0.0-osx-unsigned
-- name: dash-osx-0.16
+- name: florijncoin-osx-0.16
 - type: build
 - optionals: 

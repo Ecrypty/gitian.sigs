@@ -3,7 +3,7 @@
     d2537c4a7a1a96332466915e986dc9a045766cfec2c94aeea22cc64ec6754ed3  dashcore-0.15.0-win32-setup.exe
     e3d1b328faff430737c96d200fbbec431568a8e269e2507ccfe5ee0a624452ce  dashcore-0.15.0-win64-setup.exe
 - in_manifest: |-
-    9af9b8ec45f6fed727f25308e4002978cc0231556844f81b4275c7ac1d589c2e  dash-win-signer-desc.yml
+    9af9b8ec45f6fed727f25308e4002978cc0231556844f81b4275c7ac1d589c2e  florijncoin-win-signer-desc.yml
     5a60e0a4b3e0b4d655317b2f12a810211c50242138322b16e7e01c6fbb89d92f  osslsigncode-2.0.tar.gz
     5c272e3e7b42b7e9d5b159561792c9af796f1ce9ae5a259119a0e31ae5acc1d2  dashcore-win-unsigned.tar.gz
     git:1e0aeaec7745cca3232653bcbef742ca2cc67cd0 signature
@@ -251,6 +251,6 @@
 - cache_common_manifest: ''
 - cache_package_manifest: ''
 - release: 0.15.0.0-rc2-win-signed
-- name: dash-win-signer
+- name: florijncoin-win-signer
 - type: build
 - optionals: 

@@ -9,7 +9,7 @@
     304acda4f6b5a0291681bb9658a2fdc0e527bbc830a0ed9ec257d3ec95b03260  dashcore-0.16.0-win64.zip
     b42240cc3a6b5de411e0758706c29cb2c5fe2d740387e3b83a062a1b53654121  src/dashcore-0.16.0.tar.gz
 - in_manifest: |-
-    62b5395ba3ee0a8f28e044f68532bdb69b0750df6c4507744639cec2f199a609  dash-win-0.16-desc.yml
+    62b5395ba3ee0a8f28e044f68532bdb69b0750df6c4507744639cec2f199a609  florijncoin-win-0.16-desc.yml
     git:b3c830686758886aa9d026a3c07ac119709cc20d dash
 - base_manifests: !!omap
   - bionic-amd64: |
@@ -407,7 +407,7 @@
     7f42ecc910cf67cff9244632a72b332171dee51c9f5ca7a473069781c4b0a667  depends/x86_64-w64-mingw32/zeromq/zeromq-4.2.2-bf197ffa6f2.tar.gz.hash
     2362262efe484a51000f1e58665ca01c5f18c7ec241a046833de79ee56dfcbf4  depends/x86_64-w64-mingw32/zlib/zlib-1.2.11-a30f5d588d9.tar.gz
     23eb0b6bac9af0f60b3a524957c99d5b323f306bf792e39590c227d601b43b64  depends/x86_64-w64-mingw32/zlib/zlib-1.2.11-a30f5d588d9.tar.gz.hash
-- release: 0.16.0.1-win-unsigned
-- name: dash-win-0.16
+- release: 0.16.1.0.1-win-unsigned
+- name: florijncoin-win-0.16
 - type: build
 - optionals: 

@@ -3,7 +3,7 @@
     a47223fbc815f634b48ba6cc1db69a41839cc0d84875cd9316c092e49d15be58  dashcore-0.16.0-win32-setup.exe
     0c3601221e53fe820b4d8a6ddcc87cd85e4d19fef125ee29c3d7fd520bf98074  dashcore-0.16.0-win64-setup.exe
 - in_manifest: |-
-    9af9b8ec45f6fed727f25308e4002978cc0231556844f81b4275c7ac1d589c2e  dash-win-signer-desc.yml
+    9af9b8ec45f6fed727f25308e4002978cc0231556844f81b4275c7ac1d589c2e  florijncoin-win-signer-desc.yml
     5a60e0a4b3e0b4d655317b2f12a810211c50242138322b16e7e01c6fbb89d92f  osslsigncode-2.0.tar.gz
     a6ce0f8862a3fd4a0a375239599571c521496efaabd10789108d368eafdfb36f  dashcore-win-unsigned.tar.gz
     git:019b2c6d2a86c2d62e69098fa8cac472c20ae47e signature
@@ -239,7 +239,7 @@
       2e6dafb986ee8ebbc4e1c344fab090a41710cab878fc9cd89336cdd1740518c5  zlib1g_1%3a1.2.11.dfsg-0ubuntu2_amd64.deb
 - cache_common_manifest: ''
 - cache_package_manifest: ''
-- release: 0.16.0.1-win-signed
-- name: dash-win-signer
+- release: 0.16.1.0.1-win-signed
+- name: florijncoin-win-signer
 - type: build
 - optionals: 

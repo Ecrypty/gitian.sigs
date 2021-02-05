@@ -2,7 +2,7 @@
 - out_manifest: |
     3947334078f44fc90d3716ff5d5dc1e155dd0ea306120ff31166e7e3621087ec  dashcore-osx-signed.dmg
 - in_manifest: |-
-    3622d30a476bc6dbe26865561316211d496ee1335e2994c076de207f26ecd5ce  dash-dmg-signer-desc.yml
+    3622d30a476bc6dbe26865561316211d496ee1335e2994c076de207f26ecd5ce  florijncoin-dmg-signer-desc.yml
     984d4505f12d95bb02068087fdc61d8e97efc4f6bf33913a2b38163e4cb272a0  dashcore-osx-unsigned.tar.gz
     git:65487e9dcbcc18cfed425c9f4e70d6e46bc3c163 signature
 - base_manifests: !omap
@@ -490,6 +490,6 @@
 - cache_common_manifest: ''
 - cache_package_manifest: ''
 - release: 0.16.0.0-osx-signed
-- name: dash-dmg-signer
+- name: florijncoin-dmg-signer
 - type: build
 - optionals: 

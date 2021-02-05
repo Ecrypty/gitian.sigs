@@ -10,7 +10,7 @@
     26af3987fb8fc09b0e84d7ba6cbafaf9c9d5c7cb9de613e8b6b6c94d6b82c7b7  dashcore-0.16.0-x86_64-linux-gnu.tar.gz
     dd602327f62838942e2659b9b51fbf49a6976c800f5b2ebdc415cad8b01465c7  src/dashcore-0.16.0.tar.gz
 - in_manifest: |-
-    ec83f7cafe51423a55097a0ece6c9365587c6a939a92e969dc2c0744234d2f99  dash-linux-0.16-desc.yml
+    ec83f7cafe51423a55097a0ece6c9365587c6a939a92e969dc2c0744234d2f99  florijncoincoren-linux-0.16-desc.yml
     git:ab90b09c8df531ea4af5887f6c47feb56543283f dash
 - base_manifests: !!omap
   - bionic-amd64: |
@@ -587,6 +587,6 @@
     2b25c9925467997007ec983b4f63b11b6fb460f85aa84cc1384a0a9968dbd3bb  depends/x86_64-linux-gnu/zlib/zlib-1.2.11-233f8ded3b8.tar.gz
     a65fe91a04c80504ad859f51ba827df9d48a8143e1b782e1354dbab67cd011f3  depends/x86_64-linux-gnu/zlib/zlib-1.2.11-233f8ded3b8.tar.gz.hash
 - release: 0.16.0.0-rc2-linux
-- name: dash-linux-0.16
+- name: florijncoin-linux-0.16
 - type: build
 - optionals: 
